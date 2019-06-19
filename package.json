@@ -8,6 +8,7 @@
     "email": "owl@owlgraphic.com",
     "url": "http://owlcarousel.owlgraphic.com"
   },
+  "main": "dist/owl.carousel.js",
   "license": {
     "type": "MIT",
     "url": "https://github.com/OwlFonk/OwlCarousel2/blob/master/LICENSE"
