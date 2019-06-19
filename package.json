@@ -33,10 +33,7 @@
     "grunt-contrib-qunit": ">=0.2.1",
     "load-grunt-tasks": "^0.4.0",
     "pretty": "^0.1.2"
-   
-  },
-  "engines": {
-    "node": "~0.10.28"
+
   },
   "keywords": [
     "responsive",
